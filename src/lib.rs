@@ -3,6 +3,7 @@ extern crate core;
 mod dec1;
 mod dec2;
 mod dec3;
+mod dec4;
 
 use std::env;
 use std::fs::File;
